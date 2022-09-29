@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.4",
-    "d3": "^5.15.0",
+    "d3": "^7.6.1",
     "default-passive-events": "^1.0.10",
     "echarts": "^4.6.0",
     "element-ui": "^2.4.5",
